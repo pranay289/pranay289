@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranay289
-- 👀 I’m interested in Coading
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me pbhaturkar5@gmail.com
